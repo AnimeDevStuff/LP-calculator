@@ -1,0 +1,36 @@
+
+.calculator-container {
+    position: relative;
+    width: 50%;
+    height: auto;
+}
+
+.gx-calculator {
+    top: 10%;
+    left: 10%;
+    position: relative;
+    width: 90%;
+    /* height: 77%; */
+}
+
+.LP-amount {
+    text-align: center;
+    justify-content: center;
+    border-radius: 11px;
+    margin-top: 0%;
+    font-size: 50px;
+    position: relative;
+    width: 18%;
+    height: 22%;
+    font-family: Monospace ;
+    background-color: #433848;
+    color: #CEB330;
+    top: -111px;
+    left: 28%;
+}
+
+.lp-gauge {
+    position: relative;
+    right: 34%;
+    height: 140px;
+}
