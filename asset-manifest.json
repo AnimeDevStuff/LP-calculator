@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/LP-calculator/static/css/main.e9c76961.css",
-    "main.js": "/LP-calculator/static/js/main.24cb19c4.js",
-    "static/js/787.4f050391.chunk.js": "/LP-calculator/static/js/787.4f050391.chunk.js",
-    "static/media/LP Calculator GX.png": "/LP-calculator/static/media/LP Calculator GX.825e7623af1d3ac326c3.png",
-    "static/media/background.jpg": "/LP-calculator/static/media/background.1dc9c654a2e3a758baca.jpg",
-    "static/media/LP Gauge GX 3500.png": "/LP-calculator/static/media/LP Gauge GX 3500.0eef9c321336c1c13800.png",
-    "static/media/LP Gauge GX 3000.png": "/LP-calculator/static/media/LP Gauge GX 3000.ec17fc7e173ea57c3b02.png",
-    "static/media/LP Gauge GX.png": "/LP-calculator/static/media/LP Gauge GX.3de40f3f6af32b482a76.png",
-    "static/media/LP Gauge GX 2500.png": "/LP-calculator/static/media/LP Gauge GX 2500.cd537745e9c46717dac1.png",
-    "static/media/LP Gauge GX 2000.png": "/LP-calculator/static/media/LP Gauge GX 2000.66c71537ca4c69520c41.png",
-    "static/media/LP Gauge GX 1500.png": "/LP-calculator/static/media/LP Gauge GX 1500.a87f3338918387c3fe9b.png",
-    "static/media/LP Gauge GX 1000.png": "/LP-calculator/static/media/LP Gauge GX 1000.f5b03a9ae953587ff03f.png",
-    "static/media/LP Gauge GX 500.png": "/LP-calculator/static/media/LP Gauge GX 500.98aa2589719bb9a06c7c.png",
-    "static/media/LP Gauge GX 100.png": "/LP-calculator/static/media/LP Gauge GX 100.c6a37a78d71f2279283e.png",
-    "static/media/logo.svg": "/LP-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/LP-calculator/index.html",
-    "main.e9c76961.css.map": "/LP-calculator/static/css/main.e9c76961.css.map",
-    "main.24cb19c4.js.map": "/LP-calculator/static/js/main.24cb19c4.js.map",
-    "787.4f050391.chunk.js.map": "/LP-calculator/static/js/787.4f050391.chunk.js.map"
+    "main.css": "/lp-calculator/static/css/main.e9c76961.css",
+    "main.js": "/lp-calculator/static/js/main.07eb3a58.js",
+    "static/js/787.4f050391.chunk.js": "/lp-calculator/static/js/787.4f050391.chunk.js",
+    "static/media/LP Calculator GX.png": "/lp-calculator/static/media/LP Calculator GX.825e7623af1d3ac326c3.png",
+    "static/media/background.jpg": "/lp-calculator/static/media/background.1dc9c654a2e3a758baca.jpg",
+    "static/media/LP Gauge GX 3500.png": "/lp-calculator/static/media/LP Gauge GX 3500.0eef9c321336c1c13800.png",
+    "static/media/LP Gauge GX 3000.png": "/lp-calculator/static/media/LP Gauge GX 3000.ec17fc7e173ea57c3b02.png",
+    "static/media/LP Gauge GX.png": "/lp-calculator/static/media/LP Gauge GX.3de40f3f6af32b482a76.png",
+    "static/media/LP Gauge GX 2500.png": "/lp-calculator/static/media/LP Gauge GX 2500.cd537745e9c46717dac1.png",
+    "static/media/LP Gauge GX 2000.png": "/lp-calculator/static/media/LP Gauge GX 2000.66c71537ca4c69520c41.png",
+    "static/media/LP Gauge GX 1500.png": "/lp-calculator/static/media/LP Gauge GX 1500.a87f3338918387c3fe9b.png",
+    "static/media/LP Gauge GX 1000.png": "/lp-calculator/static/media/LP Gauge GX 1000.f5b03a9ae953587ff03f.png",
+    "static/media/LP Gauge GX 500.png": "/lp-calculator/static/media/LP Gauge GX 500.98aa2589719bb9a06c7c.png",
+    "static/media/LP Gauge GX 100.png": "/lp-calculator/static/media/LP Gauge GX 100.c6a37a78d71f2279283e.png",
+    "static/media/logo.svg": "/lp-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lp-calculator/index.html",
+    "main.e9c76961.css.map": "/lp-calculator/static/css/main.e9c76961.css.map",
+    "main.07eb3a58.js.map": "/lp-calculator/static/js/main.07eb3a58.js.map",
+    "787.4f050391.chunk.js.map": "/lp-calculator/static/js/787.4f050391.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c76961.css",
-    "static/js/main.24cb19c4.js"
+    "static/js/main.07eb3a58.js"
   ]
 }
